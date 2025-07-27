@@ -1,5 +1,6 @@
 # 💼 Yuvaraj Madugu - Personal Portfolio Website
 
+![Click here for live link]((https://yuvarajmadugu.github.io/Portfolio/))
 ![Website Preview Screenshot]((https://github.com/yuvarajmadugu/Portfolio/blob/main/PortfolioScreenshot.png))
 
 A responsive and interactive personal portfolio website built using **HTML5, CSS3, and JavaScript** to showcase my professional journey, technical skills, projects, certifications, and contact information. This site is designed to reflect my interests in **AI/ML**, **Web Development**, and **DSA using Java**, while providing recruiters and collaborators with a seamless way to connect with me.
@@ -28,9 +29,6 @@ A responsive and interactive personal portfolio website built using **HTML5, CSS
 | **Icons & Fonts**| Font Awesome 6.4.2                             |
 | **Layout**       | Flexbox, Media Queries                         |
 | **Animations**   | CSS Transitions & Hover Effects                |
-| **Hosting**      | [GitHub Pages](https://pages.github.com/) *(Optional)* |
+| **Hosting**      | ![Live Link]([https://pages.github.com/](https://yuvarajmadugu.github.io/Portfolio)/)|
 
----
-
-## 📂 Folder Structure
 
