@@ -29,6 +29,6 @@ A responsive and interactive personal portfolio website built using **HTML5, CSS
 | **Icons & Fonts**| Font Awesome 6.4.2                             |
 | **Layout**       | Flexbox, Media Queries                         |
 | **Animations**   | CSS Transitions & Hover Effects                |
-| **Hosting**      | ![Live Link]([https://pages.github.com/](https://yuvarajmadugu.github.io/Portfolio)/)|
+| **Hosting**      | ![Live Link]((https://yuvarajmadugu.github.io/Portfolio)/)|
 
 
